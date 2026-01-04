@@ -1,3 +1,16 @@
+# scholarship-disbursement system BSIT-3B
+# group members:
+Betita, Efren
+Bañares, Kemie Rose 
+Mantiquilla, Lovely Dawn
+Porras, Thrixie 
+Lariza, Andre Yhan
+Moises, Chris Jan 
+Gulac, John Benedict
+Parcon, John Michael
+Nuevo, Mie kylla
+Cabaong, Trisha Marie
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
